@@ -1,0 +1,20 @@
+[
+    {
+        "ticker": "BTC",
+        "img": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=010",
+        "name": "Bitcoin",
+        "decimals": 18
+    },
+    {
+        "ticker": "ETH",
+        "img": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=010",
+        "name": "Ethereum",
+        "decimals": 18
+    },
+    {
+        "ticker": "DOGE",
+        "img": "https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=010",
+        "name": "Dogecoin",
+        "decimals": 18
+    }
+]
